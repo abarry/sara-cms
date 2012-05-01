@@ -1,4 +1,4 @@
 sara-cms
 ========
 
-A simple CMS based on Symfony Framwork
+A simple HTML5 CMS based on Symfony Framwork
